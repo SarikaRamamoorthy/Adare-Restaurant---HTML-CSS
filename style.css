@@ -1,5 +1,6 @@
 body {
     background-color: #2F3035;
+    background-image:url(images/background-adare-restaurant.jpg);
 }
 .container {
     margin-left:auto;
@@ -7,7 +8,7 @@ body {
     width:1024px;
 }
 header {
-    background-color:skyblue;
+    /* background-color:skyblue; */
     height: 118px;
 }
 img {
@@ -19,7 +20,7 @@ nav {
     height:40px;
 }
 main {
-    background-color:orange;
+    /* background-color:orange; */
     height: 400px;
     text-align:center;
     padding-top: 84px;
@@ -28,9 +29,14 @@ main {
 }
 h1 {
     font-size: 72px;
+    color:whitesmoke
 }
 p {
     font-size:18px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+a {
+    color:white;
 }
 footer {
     background-color:green;
